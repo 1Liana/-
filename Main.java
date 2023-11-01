@@ -5,10 +5,6 @@ public class Main {
         Scanner scanner = new Scanner(System.in);
         int a = scanner.nextInt();
         int b = scanner.nextInt();
-        if(a>b) {
-            System.out.println("Большее число " +a);
-        } else {
-            System.out.println("Большее число " +b);
-        }
+
     }
 }
